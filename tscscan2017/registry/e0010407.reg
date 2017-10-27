@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Layouts\e0010407]
+"Keyboard Layout"="00000407"
+"Ime File"="compime.dll"
+"Layout Text"="COMP IME"
+

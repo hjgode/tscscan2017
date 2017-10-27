@@ -1,0 +1,25 @@
+﻿
+
+============================================================================
+Both below tipps do not work with WM6
+
+For US layout (QWERTY):
+ HKCU\ControlPanel\Keybd\Locale: 0409 (String)
+
+For German layout (QWERTZ):
+ HKCU\ControlPanel\Keybd\Locale: 0407 (String)
+
+For French layout (AZERTY):
+ HKCU\ControlPanel\Keybd\Locale: 040c (String)
+
+For Spanish layout (QWERTY):
+ HKCU\ControlPanel\Keybd\Locale: 040a (String)
+ 
+LC codes, see http://www.microsoft.com/globaldev/reference/winxp/xp-lcid.mspx
+
+For US layout (QWERTY): 
+HKCU\ [ControlPanel] \Keybd\Locale = 1033 (DWORD decimal) 
+For German layout (QWERTZ): 
+HKCU\ [ControlPanel] \Keybd\Locale = 1031 (DWORD decimal) 
+For French layout (AZERTY): 
+HKCU\ [ControlPanel] \Keybd\Locale = 1036 (DWORD decimal) 

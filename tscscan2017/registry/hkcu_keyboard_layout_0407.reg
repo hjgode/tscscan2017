@@ -1,0 +1,13 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\keyboard layout]
+
+[HKEY_CURRENT_USER\keyboard layout\Preload]
+@="e0010407"
+
+[HKEY_CURRENT_USER\keyboard layout\Preload\1]
+@="e0010407"
+
+[HKEY_CURRENT_USER\keyboard layout\toggle]
+"Hotkey"="1"
+

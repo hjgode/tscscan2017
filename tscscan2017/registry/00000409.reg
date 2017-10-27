@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Layouts\00000409]
+"PS2_AT"="kbdmouse.dll"
+"Layout File"="kbdmouse.dll"
+"Layout Text"="US"
+
